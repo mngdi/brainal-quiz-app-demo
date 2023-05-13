@@ -1,4 +1,4 @@
-# Clone
-Clone using html, css and bootstrap 5
-Vulkar AUto player by Gideon Adegbite
-© Copyright 2023 Clone. All rights reserved
+# Brainal Quiz App Demo Version
+Clone using html, css and javascript
+Brainal by Gideon Adegbite
+© Copyright 2023 Brainal quiz app demo. All rights reserved
